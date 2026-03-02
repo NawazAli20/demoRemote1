@@ -6,3 +6,4 @@ A new line is added
 
 ### Header line 3 is added in the remote branch
 Added line 8 in feature branch 
+Added line 8 in the main branch
